@@ -478,33 +478,33 @@ header nav{
 
 
 
-#RGBA-1{
+.RGBA-1{
    
     text-align: center;
     background:rgba(255, 99, 71, 0);
 }
 
-#RGBA-2{
+.RGBA-2{
     
     text-align: center;
     background: rgba(255, 99, 71, 0.2);
 }
 
-#RGBA-3{
+.RGBA-3{
     text-align: center;
     background:rgba(255, 99, 71, 0.4) ;
 }
 
-#RGBA-4{
+.RGBA-4{
     text-align: center;
     background: rgba(255, 99, 71, 0.6);
 }
-#RGBA-5{
+.RGBA-5{
     text-align: center;
     background:rgba(255, 99, 71, 0.8);
 }
 
-#RGBA-6{
+.RGBA-6{
     text-align: center;
     background:rgba(255, 99, 71, 1);
 }
